@@ -3,12 +3,18 @@
     {
       "Login": "aindi9595",
       "Password": "A1995+",
-      "RoleId": 0
+      "RoleId": 0,
+      "AvatarLink": "https://raw.githubusercontent.com/Nimocom/UrbanHackathonUserDataBase/main/0.png",
+      "Name": "Айнди",
+      "LastName": "Махмудов"
     },
     {
       "Login": "nimocom",
       "Password": "4815162342nN",
-      "RoleId": 0
+      "RoleId": 0,
+      "AvatarLink": "https://гармония70.рф/wp-content/uploads/2020/09/100996291-male-avatar-profile-picture-vector.jpg",
+      "Name": "Муслим",
+      "LastName": "Нимоком"
     }
   ]
 }
